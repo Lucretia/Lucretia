@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Lucretia's github stats](https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucretia)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucretia&&layout=compact)

@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about how you can [hire me](https://www.6prog.com/profile/public/luke-a-guest) to work on any of my projects.
 
 ![Lucretia's github stats](https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucretia)

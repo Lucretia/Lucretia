@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about how you can [hire me](https://www.6prog.com/profile/public/luke-a-guest) to work on any of my projects.
 
 <a href="https://github.com/Lucretia">
-  <img align="centre"  src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats"/>
 </a>
 

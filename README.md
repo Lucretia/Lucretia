@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently re-learning modern C++ and OpenGL, starting with 3.3 core profile.
-- 💬 Ask me about how you can [hire me](https://www.6prog.com/profile/public/lukeaguest) to work on any of my projects.
+- 🌱 I’m currently upskilling with modern C++, OpenGL 3.3 core profile, Swift on MacOS / iOS, PostgreSQL, front-end development.
+- 💬 Ask me about **Freelancing** on your projects or even any of mine.
+- 📫 How to reach me:
+  + [6prog](https://www.6prog.com/profile/public/lukeaguest)
+  + [LinkedIn](https://www.linkedin.com/in/lukeaguest)
 
 <a href="https://github.com/Lucretia">
   <img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" />

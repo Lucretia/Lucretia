@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, my name is Luke A. Guest
 
 <!--
 **Lucretia/Lucretia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,18 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### 📰 Blog Posts
 -->
 
-- 🎮 I develop the [SDLAda](https://github.com/Lucretia/sdlada) binding, because I think that game development shouldn't be done in lesser languages.
+### 🔭 I’m currently working on
+
+- I develop the [SDLAda](https://github.com/Lucretia/sdlada) binding, because I think that game development shouldn't be done in lesser languages. 🎮 
+- I’m currently upskilling with modern C++, OpenGL 3.3 core profile, Swift on MacOS / iOS, PostgreSQL, front-end development. 🌱
 - ⚡ I have an idea for a [programming language](https://github.com/Lucretia/experimental-language) that I'd like to develop.
 - ⚡ I have two projects which are not on GitHub that I'd like to complete:
   1. Khronos API binding generator.
   2. wxWidgets binding generator.
-- 🌱 I’m currently upskilling with modern C++, OpenGL 3.3 core profile, Swift on MacOS / iOS, PostgreSQL, front-end development.
-- 💬 Ask me about **Freelancing** on your projects or even any of mine.
-- 📫 How to reach me:
-  + [6prog](https://www.6prog.com/profile/public/lukeaguest)
-  + [LinkedIn](https://www.linkedin.com/in/lukeaguest)
+
+### 💬 Ask me about **Freelancing** on your projects or even any of mine.
+
+- [6prog](https://www.6prog.com/profile/public/lukeaguest)
+
+### 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/lukeaguest)
 
 <a href="https://github.com/Lucretia">
   <img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" />

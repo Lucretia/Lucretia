@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎮 I develop [SDLAda](https://github.com/Lucretia/sdlada) binding, because I think that game development shouldn't be done in lesser languages.
+- 🎮 I develop the [SDLAda](https://github.com/Lucretia/sdlada) binding, because I think that game development shouldn't be done in lesser languages.
 - ⚡ I have an idea for a [programming language](https://github.com/Lucretia/experimental-language) that I'd like to develop.
 - ⚡ I have two projects which are not on GitHub that I'd like to complete:
   1. Khronos API binding generator.

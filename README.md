@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🎮 I develop [SDLAda](https://github.com/Lucretia/sdlada) binding, because I think that game development shouldn't be done in lesser languages.
+- ⚡ I have an idea for a [programming language](https://github.com/Lucretia/experimental-language) that I'd like to develop.
 - 🌱 I’m currently upskilling with modern C++, OpenGL 3.3 core profile, Swift on MacOS / iOS, PostgreSQL, front-end development.
 - 💬 Ask me about **Freelancing** on your projects or even any of mine.
 - 📫 How to reach me:

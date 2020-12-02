@@ -16,14 +16,19 @@ Here are some ideas to get you started:
 ### 📰 Blog Posts
 -->
 
-### 🔭 I’m currently working on
+### 💻 I’m currently working on
 
 - I develop the [SDLAda](https://github.com/Lucretia/sdlada) binding, because I think that game development shouldn't be done in lesser languages. 🎮 
 - I’m currently upskilling with modern C++, OpenGL 3.3 core profile, Swift on MacOS / iOS, PostgreSQL, front-end development. 🌱
-- ⚡ I have an idea for a [programming language](https://github.com/Lucretia/experimental-language) that I'd like to develop.
-- ⚡ I have two projects which are not on GitHub that I'd like to complete:
+
+### ⚡ Other things I have to do
+
+- I have an idea for a [programming language](https://github.com/Lucretia/experimental-language) that I'd like to develop.
+- I have two projects which are not on GitHub that I'd like to complete:
   1. Khronos API binding generator.
   2. wxWidgets binding generator.
+
+I would like to finish my game 🎮 dev API's for Ada even if I don't stick to Ada myself.
 
 ### 💬 Ask me about **Freelancing** on your projects or even any of mine.
 

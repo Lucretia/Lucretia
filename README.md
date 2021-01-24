@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - I develop the [SDLAda](https://github.com/Lucretia/sdlada) binding, because I think that game development shouldn't be done in lesser languages. 🎮 
 - I’m currently upskilling with modern C++, OpenGL 3.3 core profile, Swift on MacOS / iOS, PostgreSQL, front-end development. 🌱
 
-### ⚡ Other things I have to do
+### ⚡ Other things I am doing
 
-- I have an idea for a [programming language](https://github.com/Lucretia/experimental-language) that I'd like to develop.
+- I am developing a programming language I  have named [Orenda](https://github.com/Lucretia/orenda) which is, so far, a mix of Oberon-2 and Ada.
 - I have two projects which are not on GitHub that I'd like to complete:
   1. Khronos API binding generator.
   2. wxWidgets binding generator.

@@ -1,4 +1,4 @@
-## Hi there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Luke A. Guest
+## Hi there! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Luke A. Guest
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 

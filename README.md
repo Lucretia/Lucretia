@@ -21,6 +21,11 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
+<!-- Show the readme stats -->
+<a href="https://github.com/Lucretia">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" />
+</a>
+
 <!--
 **Lucretia/Lucretia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,10 +63,6 @@ I would like to finish my game 🎮 dev API's for Ada even if I don't stick to A
 ### 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lukeaguest)
-
-<a href="https://github.com/Lucretia">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" />
-</a>
 
 The following includes all repositories even forked ones, so don't believe the numbers. Waiting on an [exclude_forks](https://github.com/anuraghazra/github-readme-stats/issues/270#issuecomment-737299300) option.
 

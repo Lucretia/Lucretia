@@ -25,7 +25,7 @@
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 -->
 [1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!-- icons without padding -->
 <!--

@@ -4,7 +4,7 @@
 
 <!-- display the social media buttons in your README -->
 
-[![GitHub][1.1]][1]
+[![GitHub][1.2]][1]
 [![LinkedIn][2.1]][2]
 <!--
 [![alt text][3.1]][3]
@@ -36,7 +36,7 @@
 [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
 -->
 [1.2]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (github icon without padding)
-[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon without padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->

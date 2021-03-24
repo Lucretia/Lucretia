@@ -23,7 +23,7 @@
 
 <!-- Show the readme stats -->
 <a href="https://github.com/Lucretia">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" width="100%" />
 </a>
 
 <!--

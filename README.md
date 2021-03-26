@@ -23,7 +23,8 @@
 
 <!-- Show the readme stats -->
 <a href="https://github.com/Lucretia">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" width="100%" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=lucretia&show_icons=true&theme=dark" alt="Lucretia's github stats" width="100%" />-->
+  <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Lucretia's github profile statistics" />
 </a>
 
 <!--
@@ -64,8 +65,20 @@ I would like to finish my game 🎮 dev API's for Ada even if I don't stick to A
 
 - [LinkedIn](https://www.linkedin.com/in/lukeaguest)
 
+<!--
 The following includes all repositories even forked ones, so don't believe the numbers. Waiting on an [exclude_forks](https://github.com/anuraghazra/github-readme-stats/issues/270#issuecomment-737299300) option.
 
 <a href="https://github.com/Lucretia">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucretia&exclude_repo=AROS,ballfield,paralax3,fixed-rate-pig,OpenGL-Registry,gnat-llvm,documentation,antlr4,gcc,ada-spark-rfcs,samueltardieu-postgres-ada,ada_language_server,niestu-jk4-fs_config,niestu-jk4-common,niestu-nail,Cherry,rocm,sooperlooper,alire,digimend-kernel-drivers,ada_antlr_grammar,binutils,ctags,pipewire,ayacc,llvm,clang,lldb,edk2,Proton,obs-vst,mlt,OpenShadingLanguage,which_is_the_fastest,dragonegg,linux-amdgpu,atom-file-icons,CodeXL,libclc,lmms,aflex,binutils-gdb.old,mesa-amdgpu,libdrm-amdgpu,swig,parse_args,prism,steam-runtime,obs-studio,obs-studio-overlay,Development_Documents,ada.tmbundle,crespo-bootloader,e&layout=compact&langs_count=10&theme=dark" />
 </a>
+-->
+
+
+<div>
+  <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="50%" alt="Repositories per language" />
+  <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="50%" alt="Most commits per language" />
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/3-stats.svg" width="50%" alt="Profile statistics" />
+  <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/4-productive-time.svg" width="50%" alt="Commits per day" />
+</div>

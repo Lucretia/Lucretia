@@ -74,6 +74,7 @@ The following includes all repositories even forked ones, so don't believe the n
 -->
 
 
+<div width="100%">
 <div>
   <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="50%" alt="Repositories per language" />
   <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="50%" alt="Most commits per language" />
@@ -81,4 +82,5 @@ The following includes all repositories even forked ones, so don't believe the n
 <div>
   <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/3-stats.svg" width="50%" alt="Profile statistics" />
   <img src="https://raw.githubusercontent.com/Lucretia/Lucretia/master/profile-summary-card-output/github_dark/4-productive-time.svg" width="50%" alt="Commits per day" />
+</div>
 </div>

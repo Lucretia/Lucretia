@@ -22,6 +22,8 @@ None of this is my fault and as of now, I can't see me getting anywhere to live 
 
 Don't expect any updates on any projects from me in the near future.
 
+Update: As of 20th Jan 2023, I'll be made homeless.
+
 <hr></hr>
 
 ### Previous content

@@ -2,27 +2,7 @@
 
 ### Current status
 
-I don't know what's going to happen with this.
-
-The last three plus years have not been good for me, working in a public sector job where you're not treated well; well go see the state of the country and see for yourselves how many public sector areas are now striking and what the government are doing about it.
-
-I lost my job in Jan 2020, then I suffered bereavement.
-
-During this time I've been going through harassment, threats and assault from the person who I was renting from.
-
-My MH is very low and haven't been able to work.
-
-Basically, he refused to give me docs to get his rent paid by the government here and he's been taking me to court to evict me after refusing to give proper docs. This was finally granted to him on Friday. I thought I had a place to move to until they pulled out because of what he has been doing to me.
-
-I've spent this last year trying to find a place to live, but nobody will rent to me as they won't take a council bond, or someone with no guarantor.
-
-I had a flat lined up last Friday in a different area, but they came back yesterday after I told them what this "person" has done to me and have now refused to rent to me, I had a guarantor sorted.
-
-None of this is my fault and as of now, I can't see me getting anywhere to live before i have to move out on the 20th.
-
-Don't expect any updates on any projects from me in the near future.
-
-Update: As of 20th Jan 2023, I'll be made homeless.
+Update: As of 23/01/2023, I have signed for a flat, I just need to move.
 
 <hr></hr>
 

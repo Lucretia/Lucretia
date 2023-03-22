@@ -2,7 +2,7 @@
 
 ### Current status
 
-Update: As of 23/01/2023, I have signed for a flat, I just need to move.
+Update: As of 22/03/2023, I have moved into the new flat, my desktop stopped working, cpu_led is on, drives spin, nothing shown on video card. Tried different video card, removed video and ram, tried all the cables, same problem. My entire life is on that so, there will be a lack of updates until I work it out or get a new machine (unlikely ATM).
 
 <hr></hr>
 

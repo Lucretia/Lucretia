@@ -73,7 +73,7 @@ I would like to finish my game 🎮 dev API's for Ada even if I don't stick to A
 
 - [LinkedIn](https://www.linkedin.com/in/lukeaguest)
 
-## Trophies
+## Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lucretia&column=4&theme=matrix&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 

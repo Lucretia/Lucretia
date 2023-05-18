@@ -73,6 +73,10 @@ I would like to finish my game 🎮 dev API's for Ada even if I don't stick to A
 
 - [LinkedIn](https://www.linkedin.com/in/lukeaguest)
 
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucretia&column=4&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 The following includes all repositories even forked ones, so don't believe the numbers. Waiting on an [exclude_forks](https://github.com/anuraghazra/github-readme-stats/issues/270#issuecomment-737299300) option.
 

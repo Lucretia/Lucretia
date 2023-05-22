@@ -1,5 +1,7 @@
 ## Hi there! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Luke.
 
+I started on a 48Kb ZX Spectrum -> Atari ST 520 FM -> Amiga 500+ -> Amiga 1200/Blizzard A1230/882/SCSI & A4000/030 & SGI O2/Indy -> Linux.
+
 ### Current status
 
 Update: As of 22/03/2023, I have moved into the new flat, my desktop stopped working, cpu_led is on, drives spin, nothing shown on video card. Tried different video card, removed video and ram, tried all the cables, same problem. My entire life is on that so, there will be a lack of updates until I work it out or get a new machine (unlikely ATM).

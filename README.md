@@ -4,7 +4,7 @@ I started on a 48Kb ZX Spectrum ➔ Atari ST 520 FM ➔ Amiga 500+ ➔ Amiga 120
 
 ### Current status
 
-Update: As of 22/03/2023, I have moved into the new flat, my desktop stopped working, cpu_led is on, drives spin, nothing shown on video card. Tried different video card, removed video and ram, tried all the cables, same problem. My entire life is on that so, there will be a lack of updates until I work it out or get a new machine (unlikely ATM).
+Update: As of 22/05/2023, I had to move the CPU of my old desktop into the original motherboard I bought (was only used for a coupld of months before I upgraded it so I could do VFIO more easily), so I do have a desktop now. I also have real internet.
 
 <hr></hr>
 

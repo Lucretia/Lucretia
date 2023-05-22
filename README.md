@@ -1,6 +1,6 @@
 ## Hi there! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Luke.
 
-I started on a 48Kb ZX Spectrum -> Atari ST 520 FM -> Amiga 500+ -> Amiga 1200/Blizzard A1230/882/SCSI & A4000/030 & SGI O2/Indy -> Linux.
+I started on a 48Kb ZX Spectrum ➔ Atari ST 520 FM ➔ Amiga 500+ ➔ Amiga 1200/Blizzard A1230/882/SCSI & A4000/030 & SGI O2/Indy ➔ Linux.
 
 ### Current status
 

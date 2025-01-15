@@ -5,28 +5,34 @@ I started on a 48Kb ZX Spectrum ➔ Atari ST 520 FM ➔ Amiga 500+ ➔ Amiga 120
 ### Current status
 
 * Update: 15/01/2025
-  - I have moved forked repos to a new "<a href="https://github.com/Lucretia-forks">org</a>" on here.
+  - I have moved forked repos to a new "<a href="https://github.com/Lucretia-forks">org</a>" on here, as cna be seen
+    in the lower left corner under "Organizations."
   - This includes anything I have contributed to.
 * Update: 23/01/2023
   - I have signed for a flat, I just need to move.
 
 <hr></hr>
 
+<!--
 ### Previous content
+-->
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
+<!--
 [![GitHub][github_icon]][github]
 [![LinkedIn][linkedin_icon]][linkedin]
+-->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
+<!--
 [github_icon]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (github icon without padding)
 [linkedin_icon]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon without padding)
-
+-->
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 

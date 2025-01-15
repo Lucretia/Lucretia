@@ -1,5 +1,7 @@
 ## Hi there! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Luke.
 
+I started on a 48Kb ZX Spectrum ➔ Atari ST 520 FM ➔ Amiga 500+ ➔ Amiga 1200/Blizzard A1230/882/SCSI & A4000/030 & SGI O2/Indy ➔ Linux.
+
 ### Current status
 
 * Update: 15/01/2025
@@ -76,6 +78,10 @@ I would like to finish my game 🎮 dev API's for Ada even if I don't stick to A
 ### 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lukeaguest)
+
+## Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lucretia&column=3&theme=matrix&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 The following includes all repositories even forked ones, so don't believe the numbers. Waiting on an [exclude_forks](https://github.com/anuraghazra/github-readme-stats/issues/270#issuecomment-737299300) option.

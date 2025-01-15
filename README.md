@@ -75,11 +75,11 @@ I would like to finish my game 🎮 dev API's for Ada even if I don't stick to A
 ### 💬 Ask me about **Freelancing** on your projects or even any of mine.
 
 - [6prog](https://www.6prog.com/profile/public/lukeaguest)
--->
+
 ### 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lukeaguest)
-
+-->
 ## Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lucretia&column=3&theme=matrix&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)

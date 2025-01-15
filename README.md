@@ -2,9 +2,11 @@
 
 ### Current status
 
-Update: 15/01/2025 - I have moved forked repos to a new "<a href="https://github.com/Lucretia-forks">org</a>" on here.
-                   - This includes anything I have contributed to.
-Update: 23/01/2023 - I have signed for a flat, I just need to move.
+* Update: 15/01/2025
+  - I have moved forked repos to a new "<a href="https://github.com/Lucretia-forks">org</a>" on here.
+  - This includes anything I have contributed to.
+* Update: 23/01/2023
+  - I have signed for a flat, I just need to move.
 
 <hr></hr>
 

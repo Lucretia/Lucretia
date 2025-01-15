@@ -5,7 +5,7 @@ I started on a 48Kb ZX Spectrum ➔ Atari ST 520 FM ➔ Amiga 500+ ➔ Amiga 120
 ### Current status
 
 * Update: 15/01/2025
-  - I have moved forked repos to a new "<a href="https://github.com/Lucretia-forks">org</a>" on here, as cna be seen
+  - I have moved forked repos to a new "<a href="https://github.com/Lucretia-forks">org</a>" on here, as can be seen
     in the lower left corner under "Organizations."
   - This includes anything I have contributed to.
 * Update: 23/01/2023

@@ -71,10 +71,11 @@ Here are some ideas to get you started:
 
 I would like to finish my game 🎮 dev API's for Ada even if I don't stick to Ada myself.
 
+<!--
 ### 💬 Ask me about **Freelancing** on your projects or even any of mine.
 
 - [6prog](https://www.6prog.com/profile/public/lukeaguest)
-
+-->
 ### 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lukeaguest)

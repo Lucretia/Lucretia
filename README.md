@@ -1,6 +1,19 @@
 ## Hi there! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, my name is Luke.
 
-I started on a 48Kb ZX Spectrum ➔ Atari ST 520 FM ➔ Amiga 500+ ➔ Amiga 1200/Blizzard A1230/882/SCSI & A4000/030 & SGI O2/Indy ➔ Linux.
+* 48Kb ZX Spectrum
+* Atari ST 520 FM
+* Amiga 500+
+* Amiga 1200/Blizzard A1230/882/SCSI AmigaOS + Linux
+
+Then added the following:
+
+* A4000/030
+* SGI Indy
+* SGI O2
+
+* Then went fully PC/Linux, mostly AMD64.
+
+I still have the SGI's but I *stupidly* sold the Amiga's, I now have parts for an A1200 base machine that needs fixing.
 
 ### Current status
 
